@@ -10,6 +10,11 @@
       "StackName": "amplify-nycamplify-dev-192013",
       "StackId": "arn:aws:cloudformation:us-west-2:515812638942:stack/amplify-nycamplify-dev-192013/13c5cf80-37f8-11eb-969d-06765f04f1fc",
       "AmplifyAppId": "d30mbnl1uoplgq"
+    },
+    "categories": {
+      "auth": {
+        "nycamplify06691c8b": {}
+      }
     }
   }
 }
